@@ -14,7 +14,7 @@ A simple dice game built with **HTML**, **CSS**, and **JavaScript** (DOM). This 
 
 - **HTML**: For creating the structure of the webpage.
 - **CSS**: For styling the user interface.
-- **JavaScript (WinJS)**: For the game logic and interaction.
+- **JavaScript**: For the game logic and interaction.
 
 ## 📂 Project Structure
 
